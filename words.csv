@@ -1,0 +1,61 @@
+No.,単語,意味,例文,意味
+1,advancement,進歩，発展,The rapid advancement of chat-based language models has led to remarkable progress.,チャットベースの言語モデルの急速な進歩は，目覚ましい進展をもたらした．
+2,remarkable,注目すべき，目覚ましい,...has led to remarkable progress in complex task-solving.,...複雑なタスク解決において目覚ましい進歩をもたらした．
+3,autonomous,自律的な,Facilitate autonomous cooperation among communicative agents.,通信エージェント間の自律的な協力を促進する．
+4,communicative,意思疎通のできる，通信の,Facilitate autonomous cooperation among communicative agents.,通信エージェント間の自律的な協力を促進する．
+5,cognitive,認知の,"Provide insight into their ""cognitive"" processes.",彼らの「認知」プロセスへの洞察を提供する．
+6,framework,枠組み，フレームワーク,We propose a novel communicative agent framework named role-playing.,ロールプレイングと名付けられた新しい通信エージェントの枠組みを提案する．
+7,inception,開始，（ここでは）初期指示,Our approach involves using inception prompting to guide chat agents.,我々の手法は，チャットエージェントを誘導するために初期指示プロンプトを使用する．
+8,consistency,一貫性,Maintaining consistency with human intentions.,人間の意図との一貫性を維持する．
+9,intention,意図,Maintaining consistency with human intentions.,人間の意図との一貫性を維持する．
+10,behavioral,行動の,Studying the behaviors and capabilities of a society of agents.,エージェント社会の行動と能力を研究する．
+11,capability,能力,Studying the behaviors and capabilities of a society of agents.,エージェント社会の行動と能力を研究する．
+12,investigation,調査，研究,Providing a valuable resource for investigating conversational language models.,対話型言語モデルを調査するための貴重なリソースを提供する．
+13,instruction-following,指示に従うこと,Conduct comprehensive studies on instruction-following cooperation.,指示に従う協力に関する包括的な研究を行う．
+14,contribution,貢献,Our contributions include introducing a novel communicative agent framework.,我々の貢献には，新しい通信エージェントの枠組みの導入が含まれる．
+15,intelligence,知能,What magical trick makes us intelligent?,どんな魔法の仕掛けが私たちを知的にするのか？
+16,stem,生じる，由来する,The power of intelligence stems from our vast diversity.,知能の力は，私たちの膨大な多様性から生じている．
+17,diversity,多様性,The power of intelligence stems from our vast diversity.,知能の力は，私たちの膨大な多様性から生じている．
+18,principle,原則，原理,"...not from any single, perfect principle.",...単一の完璧な原則からではない．
+19,complexity,複雑さ,Confronted with the complexities of real-world tasks.,現実世界のタスクの複雑さに直面している．
+20,achievement,達成，成果,...has yielded remarkable achievements in complex task-solving.,...複雑なタスク解決において目覚ましい成果を挙げている．
+21,reliance,依存，信頼,Their success is heavily reliant on human input.,彼らの成功は人間の入力に大きく依存している．
+22,guidance,誘導，指導,...human input to guide the conversation in the right direction.,...会話を正しい方向に誘導するための人間の入力．
+23,expertise,専門知識,Crafting effective prompts often demands a deep understanding and expertise.,効果的なプロンプトを作成するには，深い理解と専門知識が必要な場合が多い．
+24,domain,領域,...expertise of a particular domain of knowledge.,...特定の知識領域の専門知識．
+25,predicament,苦境，窮地,This predicament is raising a crucial question.,この苦境は重大な疑問を投げかけている．
+26,intervention,介入,Can we replace human intervention with an autonomous communicative agent?,人間の介入を自律的な通信エージェントに置き換えることはできるか？
+27,steering,操縦，方向付け,...capable of steering the conversation toward task completion.,...会話をタスク完了へと導くことができる．
+28,supervision,監督,...with minimal human supervision.,...最小限の人間の監督で．
+29,anticipate,予測する,Important for anticipating the future of artificial intelligence.,人工知能の未来を予測するために重要である．
+30,dynamics,力学，動態,The dynamics of collaborating or competing agents play a key role.,協力または競合するエージェントの動態が重要な役割を果たす．
+31,facilitate,促進する,Build scalable techniques to facilitate autonomous cooperation.,自律的な協力を促進するためのスケーラブルな技術を構築する．
+32,align,調整する，合わせる,Ways to align these models with human intentions.,これらのモデルを人間の意図に合わせる方法．
+33,modular,モジュール式の,Our library provides modular functionality.,我々のライブラリはモジュール式の機能を提供する．
+34,implementation,実装,...includes implementations of different agents.,...異なるエージェントの実装を含んでいる．
+35,scalable,拡張性のある,Provide a highly scalable way to generate conversational data.,対話データを生成するための非常に拡張性の高い方法を提供する．
+36,scenario,シナリオ，場面,"In particular, we consider two cooperative scenarios.",特に，2つの協力シナリオを検討する．
+37,misalignment,ずれ，不整合,Generate a Misalignment dataset that is a simulation of possible malicious applications.,起こりうる悪意のあるアプリケーションのシミュレーションである不整合データセットを生成する．
+38,simulation,シミュレーション,...that is a simulation of possible malicious applications.,...それは起こりうる悪意のあるアプリケーションのシミュレーションである．
+39,malicious,悪意のある,...a simulation of possible malicious applications.,...起こりうる悪意のあるアプリケーションのシミュレーション．
+40,unaligned,調整されていない,...potential risks of an unaligned autonomous agent system.,...調整されていない自律エージェントシステムの潜在的なリスク．
+41,comprehend,理解する,Enabling them to comprehend and react to human language.,彼らが人間の言語を理解し，反応できるようにする．
+42,enhance,強化する,...can potentially enhance the development of more advanced language models.,...より高度な言語モデルの開発を強化する可能性がある．
+43,outperform,上回る,...outperform those generated in a single shot by gpt-3.5-turbo.,...gpt-3.5-turboによるシングルショットで生成されたものを上回る．
+44,emergence,出現，（ここでは）創発,We also study knowledge emergence in LLMs.,LLMにおける知識の創発についても研究する．
+45,fine-tuning,微調整,...by fine-tuning LLaMA on progressively growing datasets.,...段階的に増加するデータセットでLLaMAを微調整することによって．
+46,benchmark,指標，ベンチマーク,...through benchmarking our final model on HumanEval.,...HumanEvalで最終モデルをベンチマークすることによって．
+47,competitive,競争力のある，（ここでは）匹敵する,...we show competitive pass@k scores with LLaMa-7B.,...LLaMa-7Bと遜色のないpass@kスコアを示す．
+48,adhere,遵守する,Al systems adhere to their intended goals.,AIシステムは意図された目標を遵守する．
+49,descriptive,記述的な,...provides a detailed description to make the idea specific.,...アイデアを具体的にするための詳細な記述を提供する．
+50,instantiate,具体化する，例示する,The role-playing session will be instantiated from an idea.,ロールプレイングセッションはアイデアから具体化される．
+51,designate,指定する,...only to designate the potential roles.,...潜在的な役割を指定するだけでよい．
+52,interact,相互作用する,Engaging in interactive planning to determine feasible steps.,実行可能なステップを決定するための対話的な計画に関与する．
+53,feasible,実行可能な,...to determine feasible steps for the AI assistant to execute.,...AIアシスタントが実行するための実行可能なステップを決定する．
+54,historical,過去の,...takes the historical conversation message set.,...過去の会話メッセージセットを受け取る．
+55,termination,終了,"...communication protocols, termination conditions, and constraints.",...通信プロトコル，終了条件，および制約．
+56,protocol,プロトコル，規約,"...communication protocols, termination conditions.",...通信プロトコル，終了条件．
+57,constraint,制約,"...termination conditions, and constraints or requirements.",...終了条件，および制約や要件．
+58,deviation,逸脱,...avoiding any deviation from the structure of the conversation.,...会話の構造からの逸脱を避ける．
+59,symmetry,対称性,...strive to maintain as much symmetry as possible.,...可能な限り対称性を維持するよう努める．
+60,sophisticated,洗練された,...develop an increasingly sophisticated understanding of these domains.,...これらの領域に対するますます洗練された理解を深める．
