@@ -47,7 +47,7 @@
   = #"論文要約\n「OASIS: Open Agent Social Interaction Simulations with One Million Agents」"
   #v(20pt)
   #align(right)[
-    #text(20pt)[f22123 中村晴　]
+    #text(20pt)[f22123 5J-30 中村晴]
   ]
 ]
 
