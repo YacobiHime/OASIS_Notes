@@ -1,61 +1,61 @@
-No.,単語,意味,例文,意味
-1,advancement,進歩，発展,The rapid advancement of chat-based language models has led to remarkable progress.,チャットベースの言語モデルの急速な進歩は，目覚ましい進展をもたらした．
-2,remarkable,注目すべき，目覚ましい,...has led to remarkable progress in complex task-solving.,...複雑なタスク解決において目覚ましい進歩をもたらした．
-3,autonomous,自律的な,Facilitate autonomous cooperation among communicative agents.,通信エージェント間の自律的な協力を促進する．
-4,communicative,意思疎通のできる，通信の,Facilitate autonomous cooperation among communicative agents.,通信エージェント間の自律的な協力を促進する．
-5,cognitive,認知の,"Provide insight into their ""cognitive"" processes.",彼らの「認知」プロセスへの洞察を提供する．
-6,framework,枠組み，フレームワーク,We propose a novel communicative agent framework named role-playing.,ロールプレイングと名付けられた新しい通信エージェントの枠組みを提案する．
-7,inception,開始，（ここでは）初期指示,Our approach involves using inception prompting to guide chat agents.,我々の手法は，チャットエージェントを誘導するために初期指示プロンプトを使用する．
-8,consistency,一貫性,Maintaining consistency with human intentions.,人間の意図との一貫性を維持する．
-9,intention,意図,Maintaining consistency with human intentions.,人間の意図との一貫性を維持する．
-10,behavioral,行動の,Studying the behaviors and capabilities of a society of agents.,エージェント社会の行動と能力を研究する．
-11,capability,能力,Studying the behaviors and capabilities of a society of agents.,エージェント社会の行動と能力を研究する．
-12,investigation,調査，研究,Providing a valuable resource for investigating conversational language models.,対話型言語モデルを調査するための貴重なリソースを提供する．
-13,instruction-following,指示に従うこと,Conduct comprehensive studies on instruction-following cooperation.,指示に従う協力に関する包括的な研究を行う．
-14,contribution,貢献,Our contributions include introducing a novel communicative agent framework.,我々の貢献には，新しい通信エージェントの枠組みの導入が含まれる．
-15,intelligence,知能,What magical trick makes us intelligent?,どんな魔法の仕掛けが私たちを知的にするのか？
-16,stem,生じる，由来する,The power of intelligence stems from our vast diversity.,知能の力は，私たちの膨大な多様性から生じている．
-17,diversity,多様性,The power of intelligence stems from our vast diversity.,知能の力は，私たちの膨大な多様性から生じている．
-18,principle,原則，原理,"...not from any single, perfect principle.",...単一の完璧な原則からではない．
-19,complexity,複雑さ,Confronted with the complexities of real-world tasks.,現実世界のタスクの複雑さに直面している．
-20,achievement,達成，成果,...has yielded remarkable achievements in complex task-solving.,...複雑なタスク解決において目覚ましい成果を挙げている．
-21,reliance,依存，信頼,Their success is heavily reliant on human input.,彼らの成功は人間の入力に大きく依存している．
-22,guidance,誘導，指導,...human input to guide the conversation in the right direction.,...会話を正しい方向に誘導するための人間の入力．
-23,expertise,専門知識,Crafting effective prompts often demands a deep understanding and expertise.,効果的なプロンプトを作成するには，深い理解と専門知識が必要な場合が多い．
-24,domain,領域,...expertise of a particular domain of knowledge.,...特定の知識領域の専門知識．
-25,predicament,苦境，窮地,This predicament is raising a crucial question.,この苦境は重大な疑問を投げかけている．
-26,intervention,介入,Can we replace human intervention with an autonomous communicative agent?,人間の介入を自律的な通信エージェントに置き換えることはできるか？
-27,steering,操縦，方向付け,...capable of steering the conversation toward task completion.,...会話をタスク完了へと導くことができる．
-28,supervision,監督,...with minimal human supervision.,...最小限の人間の監督で．
-29,anticipate,予測する,Important for anticipating the future of artificial intelligence.,人工知能の未来を予測するために重要である．
-30,dynamics,力学，動態,The dynamics of collaborating or competing agents play a key role.,協力または競合するエージェントの動態が重要な役割を果たす．
-31,facilitate,促進する,Build scalable techniques to facilitate autonomous cooperation.,自律的な協力を促進するためのスケーラブルな技術を構築する．
-32,align,調整する，合わせる,Ways to align these models with human intentions.,これらのモデルを人間の意図に合わせる方法．
-33,modular,モジュール式の,Our library provides modular functionality.,我々のライブラリはモジュール式の機能を提供する．
-34,implementation,実装,...includes implementations of different agents.,...異なるエージェントの実装を含んでいる．
-35,scalable,拡張性のある,Provide a highly scalable way to generate conversational data.,対話データを生成するための非常に拡張性の高い方法を提供する．
-36,scenario,シナリオ，場面,"In particular, we consider two cooperative scenarios.",特に，2つの協力シナリオを検討する．
-37,misalignment,ずれ，不整合,Generate a Misalignment dataset that is a simulation of possible malicious applications.,起こりうる悪意のあるアプリケーションのシミュレーションである不整合データセットを生成する．
-38,simulation,シミュレーション,...that is a simulation of possible malicious applications.,...それは起こりうる悪意のあるアプリケーションのシミュレーションである．
-39,malicious,悪意のある,...a simulation of possible malicious applications.,...起こりうる悪意のあるアプリケーションのシミュレーション．
-40,unaligned,調整されていない,...potential risks of an unaligned autonomous agent system.,...調整されていない自律エージェントシステムの潜在的なリスク．
-41,comprehend,理解する,Enabling them to comprehend and react to human language.,彼らが人間の言語を理解し，反応できるようにする．
-42,enhance,強化する,...can potentially enhance the development of more advanced language models.,...より高度な言語モデルの開発を強化する可能性がある．
-43,outperform,上回る,...outperform those generated in a single shot by gpt-3.5-turbo.,...gpt-3.5-turboによるシングルショットで生成されたものを上回る．
-44,emergence,出現，（ここでは）創発,We also study knowledge emergence in LLMs.,LLMにおける知識の創発についても研究する．
-45,fine-tuning,微調整,...by fine-tuning LLaMA on progressively growing datasets.,...段階的に増加するデータセットでLLaMAを微調整することによって．
-46,benchmark,指標，ベンチマーク,...through benchmarking our final model on HumanEval.,...HumanEvalで最終モデルをベンチマークすることによって．
-47,competitive,競争力のある，（ここでは）匹敵する,...we show competitive pass@k scores with LLaMa-7B.,...LLaMa-7Bと遜色のないpass@kスコアを示す．
-48,adhere,遵守する,Al systems adhere to their intended goals.,AIシステムは意図された目標を遵守する．
-49,descriptive,記述的な,...provides a detailed description to make the idea specific.,...アイデアを具体的にするための詳細な記述を提供する．
-50,instantiate,具体化する，例示する,The role-playing session will be instantiated from an idea.,ロールプレイングセッションはアイデアから具体化される．
-51,designate,指定する,...only to designate the potential roles.,...潜在的な役割を指定するだけでよい．
-52,interact,相互作用する,Engaging in interactive planning to determine feasible steps.,実行可能なステップを決定するための対話的な計画に関与する．
-53,feasible,実行可能な,...to determine feasible steps for the AI assistant to execute.,...AIアシスタントが実行するための実行可能なステップを決定する．
-54,historical,過去の,...takes the historical conversation message set.,...過去の会話メッセージセットを受け取る．
-55,termination,終了,"...communication protocols, termination conditions, and constraints.",...通信プロトコル，終了条件，および制約．
-56,protocol,プロトコル，規約,"...communication protocols, termination conditions.",...通信プロトコル，終了条件．
-57,constraint,制約,"...termination conditions, and constraints or requirements.",...終了条件，および制約や要件．
-58,deviation,逸脱,...avoiding any deviation from the structure of the conversation.,...会話の構造からの逸脱を避ける．
-59,symmetry,対称性,...strive to maintain as much symmetry as possible.,...可能な限り対称性を維持するよう努める．
-60,sophisticated,洗練された,...develop an increasingly sophisticated understanding of these domains.,...これらの領域に対するますます洗練された理解を深める．
+No.,単語・表現,意味,例文（作例）,例文の和訳
+1,agent,エージェント（行動する主体）,Each agent acts as a social media user.,各エージェントはSNSの利用者として行動する。
+2,agent-based model,エージェントベースモデル,An agent-based model represents interactions among individuals.,エージェントベースモデルは個人間の相互作用を表す。
+3,simulation,シミュレーション,The simulation tracks changes in posts and relationships.,このシミュレーションは投稿と関係の変化を追跡する。
+4,large language model,大規模言語モデル,A large language model generates the agent's responses.,大規模言語モデルがエージェントの応答を生成する。
+5,social media platform,SNSの基盤・サービス,OASIS can model more than one social media platform.,OASISは複数のSNSを模擬できる。
+6,generalizable,異なる設定にも適用できる,The simulator is designed to be generalizable across platforms.,このシミュレータは異なるSNSにも適用できるよう設計されている。
+7,scalable,規模を拡大できる,A scalable system can support a larger population.,規模を拡大できるシステムはより多くの参加者に対応できる。
+8,scenario,実験の場面・設定,Each scenario uses a suitable set of actions.,各実験設定では適切な行動の組を使う。
+9,framework,枠組み・基盤,The framework connects agents to a simulated environment.,この基盤はエージェントを模擬環境につなぐ。
+10,modular,機能を部品ごとに分けた,A modular design allows components to be changed.,機能を部品ごとに分けた設計により構成要素を変更できる。
+11,environment,環境,The environment stores posts and user relationships.,環境は投稿と利用者間の関係を保存する。
+12,relational database,リレーショナルデータベース,A relational database stores the platform data.,リレーショナルデータベースがSNSのデータを保存する。
+13,dynamic,時間とともに変化する,The social network is dynamic as users follow others.,利用者が他者をフォローするため社会的ネットワークは変化する。
+14,interaction,相互作用,An interaction can change both opinions and relationships.,相互作用は意見と関係の両方を変え得る。
+15,action space,行動空間（選べる行動の集合）,The action space depends on the experiment.,行動空間は実験によって異なる。
+16,memory,記憶,An agent's memory includes its previous actions.,エージェントの記憶には過去の行動が含まれる。
+17,profile,プロフィール,The profile describes the user's interests.,プロフィールは利用者の興味を記述する。
+18,recommendation system,推薦システム,The recommendation system selects posts for each agent.,推薦システムは各エージェントに見せる投稿を選ぶ。
+19,in-network,フォロー関係の内側の,The in-network feed contains posts from followed users.,フォロー内のフィードにはフォローしている利用者の投稿が含まれる。
+20,out-of-network,フォロー関係の外側の,The system also recommends out-of-network posts.,このシステムはフォロー外の投稿も推薦する。
+21,embedding,埋め込み（ベクトル表現）,An embedding represents text as a vector.,埋め込みは文章をベクトルで表現する。
+22,cosine similarity,コサイン類似度,Cosine similarity measures how close two text vectors are.,コサイン類似度は2つの文章ベクトルがどれほど近いかを測る。
+23,recency,新しさ,Recency is one factor in the recommendation score.,新しさは推薦スコアの要因の1つである。
+24,hot score,人気度スコア,The hot score uses votes and submission time.,人気度スコアは投票と投稿時刻を使う。
+25,activation probability,活動確率,The activation probability determines how likely an agent is to act.,活動確率はエージェントが行動する可能性を定める。
+26,temporal feature,時間的特徴,A temporal feature captures variation in hourly activity.,時間的特徴は時間帯ごとの活動の変化を捉える。
+27,time step,時間ステップ,Simulation time advances by one time step.,模擬時間は1ステップずつ進む。
+28,asynchronous,非同期の,Asynchronous communication helps process concurrent requests.,非同期通信は同時に届く要求の処理に役立つ。
+29,inference,推論,LLM inference generates actions for active agents.,LLMの推論が活動中のエージェントの行動を生成する。
+30,concurrent,同時並行の,The system handles concurrent requests from agents.,このシステムはエージェントからの同時並行の要求を扱う。
+31,information propagation,情報伝播,Information propagation depends on the network and recommendations.,情報伝播はネットワークと推薦に左右される。
+32,scale,規模（拡散に参加した利用者数）,Scale counts the users participating in propagation.,規模は伝播に参加した利用者を数える。
+33,depth,深さ（伝播経路の最大深さ）,The simulated propagation has a smaller depth than the real data.,模擬した伝播の深さは実データより小さい。
+34,max breadth,最大幅（同じ深さの利用者数の最大値）,Max breadth measures the widest level of a propagation graph.,最大幅は伝播グラフの最も幅広い層を測る。
+35,normalized RMSE,正規化した二乗平均平方根誤差,Normalized RMSE measures the difference between two curves.,正規化RMSEは2つの曲線の差を測る。
+36,confidence interval,信頼区間,The figure shows a mean and a confidence interval.,図は平均と信頼区間を示す。
+37,ground truth,比較の基準となる実測データ,Real propagation data serve as the ground truth.,現実の伝播データが比較の基準となる。
+38,replicate,再現する,The experiment aims to replicate a social phenomenon.,この実験は社会現象の再現を目指す。
+39,discrepancy,食い違い・ずれ,A discrepancy remains between simulation and real data.,シミュレーションと実データの間にはずれが残る。
+40,group polarization,集団極性化,Group polarization can make an initially cautious view more extreme.,集団極性化は初期の慎重な見方をさらに極端にし得る。
+41,dilemma,ジレンマ（選択に迷う状況）,The agents discuss a writer's dilemma.,エージェントは作家のジレンマについて議論する。
+42,conservative,慎重な・保守的な,The advice becomes more conservative during discussion.,議論の間に助言がさらに慎重になる。
+43,uncensored,安全上の制約を除いた,The experiment compares an aligned model with an uncensored model.,実験では安全性を調整したモデルと制約を除いたモデルを比較する。
+44,herd effect,同調現象,The herd effect can influence later votes.,同調現象は後続の投票に影響し得る。
+45,upvote,高評価・賛成票,One initial upvote is added to an item.,ある項目に初期の高評価を1件加える。
+46,downvote,低評価・反対票,One initial downvote may affect later reactions.,初期の低評価1件が後の反応に影響し得る。
+47,control group,対照群,The control group receives no initial vote.,対照群には初期の評価を付けない。
+48,counterfactual,事実に反する,The agents comment on counterfactual posts.,エージェントは事実に反する投稿にコメントする。
+49,disagree score,反対度のスコア,A higher disagree score means stronger rejection of the post.,反対度のスコアが高いほど投稿を強く否定している。
+50,self-correction,自己修正,The authors observe a tendency toward self-correction.,著者らは自己修正に向かう傾向を観測する。
+51,diversity,多様性,Opinion diversity increases in the larger group.,大きい集団では意見の多様性が増す。
+52,helpfulness,有用性,An LLM compares the helpfulness of the responses.,LLMが応答の有用性を比較する。
+53,misinformation,誤情報・偽情報,Misinformation spreads widely in this simulation.,このシミュレーションでは偽情報が広く拡散する。
+54,ablation study,構成要素を除去・変更して影響を調べる実験,An ablation study tests the role of recommendations.,アブレーション実験で推薦の役割を調べる。
+55,computational resource,計算資源,A larger simulation needs more computational resources.,大きいシミュレーションにはより多くの計算資源が必要になる。
+56,limitation,限界・制約,One limitation is the simplified user profile.,限界の1つは利用者のプロフィールが単純化されていることである。
+57,multimodal,複数の情報形式を扱う,Multimodal input could include images and audio.,複数形式の入力には画像や音声を含められる。
+58,bias,偏り・バイアス,Model bias can affect simulated behavior.,モデルの偏りは模擬される行動に影響し得る。
+59,anonymization,匿名化,Anonymization helps protect user privacy.,匿名化は利用者のプライバシー保護に役立つ。
+60,ethical consideration,倫理的配慮,Data privacy is an important ethical consideration.,データのプライバシーは重要な倫理的配慮事項である。
